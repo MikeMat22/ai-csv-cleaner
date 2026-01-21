@@ -1,0 +1,11 @@
+message,label,source,confidence
+"Congratulations! You have won a free prize",scam,SMS,0.95
+"Hey, are we still meeting today?",ham,WhatsApp,
+"Your bank account has been suspended. Click the link.",SPAM,email,0.89
+"Limited time offer!!!",1,email,0.92
+"Can you call me when you get this?",0,WhatsApp,
+"",scam,SMS,0.88
+"Congratulations! You have won a free prize",scam,SMS,0.95
+"URGENT: Verify your account now",Fraud,email,
+"See you tomorrow",legit,WhatsApp,
+"Free money waiting for you",,SMS,0.97

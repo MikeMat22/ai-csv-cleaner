@@ -1,0 +1,7 @@
+customer_id,name,age,country,signup_date,spend
+1,John Smith,34,USA,2023-01-10,120.50
+2,Ana Novak,,Czech Republic,2023-02-15,89.99
+3,,45,Germany,2023-03-01,
+4,Maria Rossi,29,Italy,,300
+4,Maria Rossi,29,Italy,,300
+5,Lee Wong,NaN,China,2023-04-20,50
